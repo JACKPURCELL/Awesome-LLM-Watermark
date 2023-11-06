@@ -51,6 +51,7 @@ This repo includes papers about the watermarking for text and images.
 * **Robust Distortion-free Watermarks for Language Models.** Preprint.
   * Rohith Kuditipudi John Thickstun Tatsunori Hashimoto Percy Liang.
   * https://arxiv.org/abs/2307.15593
+  * https://github.com/jthickstun/watermark
 * **Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy.** Preprint.
   * Yu Fu, Deyi Xiong, Yue Dong.
   * https://arxiv.org/abs/2307.13808
@@ -90,6 +91,7 @@ This repo includes papers about the watermarking for text and images.
 * **Distillation-Resistant Watermarking for Model Protection in NLP.** EMNLP 2022
   * Xuandong Zhao, Lei Li, Yu-Xiang Wang.
   * https://arxiv.org/abs/2210.03312
+  * https://github.com/XuandongZhao/DRW
 * **CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks.** NeurIPS 2022
   * Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia.
   * https://arxiv.org/abs/2209.08773

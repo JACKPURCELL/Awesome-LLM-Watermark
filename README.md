@@ -51,6 +51,7 @@ This repo includes papers about the watermarking for text and images.
 * **A Private Watermark for Large Language Models.** Preprint.
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu. 
   * https://arxiv.org/abs/2307.16230
+  * https://github.com/THU-BPM/private_watermark
 * **Robust Distortion-free Watermarks for Language Models.** Preprint.
   * Rohith Kuditipudi John Thickstun Tatsunori Hashimoto Percy Liang.
   * https://arxiv.org/abs/2307.15593
@@ -81,6 +82,7 @@ This repo includes papers about the watermarking for text and images.
 * **Robust Multi-bit Natural Language Watermarking through Invariant Features.** ACL 2023.
   * KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak.
   * https://arxiv.org/abs/2305.01904
+  * https://github.com/bangawayoo/nlp-watermarking
 * **Are You Copying My Model? Protecting the Copyright of Large Language Models for EaaS via Backdoor Watermark.** ACL 2023.
   * Wenjun Peng, Jingwei Yi, Fangzhao Wu, Shangxi Wu, Bin Zhu, Lingjuan Lyu, Binxing Jiao, Tong Xu, Guangzhong Sun, Xing Xie.
   * https://arxiv.org/abs/2305.10036
@@ -104,6 +106,7 @@ This repo includes papers about the watermarking for text and images.
 * **CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks.** NeurIPS 2022
   * Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia.
   * https://arxiv.org/abs/2209.08773
+  * https://github.com/xlhex/cater_neurips
 * **Watermarking the Outputs of Structured Prediction with an application in Statistical Machine Translation.** EMNLP 2011
   * Ashish Venugopal, Jakob Uszkoreit, David Talbot, Franz Och, Juri Ganitkevitch.
   * https://aclanthology.org/D11-1126/

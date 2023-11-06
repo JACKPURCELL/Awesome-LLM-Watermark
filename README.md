@@ -43,9 +43,11 @@ This repo includes papers about the watermarking for text and images.
 * **Three Bricks to Consolidate Watermarks for Large Language Models.** Preprint.
   * Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon.
   * https://arxiv.org/abs/2308.00113
+  * https://github.com/facebookresearch/three_bricks
 * **Towards Codable Text Watermarking for Large Language Models.** Preprint.
   * Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun.
   * https://arxiv.org/abs/2307.15992
+  * https://github.com/lancopku/codable-watermarking-for-llm
 * **A Private Watermark for Large Language Models.** Preprint.
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu. 
   * https://arxiv.org/abs/2307.16230
@@ -59,9 +61,11 @@ This repo includes papers about the watermarking for text and images.
 * **Provable Robust Watermarking for AI-Generated Text.** Preprint.
   * Xuandong Zhao, Prabhanjan Ananth, Lei Li, Yu-Xiang Wang.
   * https://arxiv.org/abs/2306.17439
+  * https://github.com/XuandongZhao/Unigram-Watermark
 * **On the Reliability of Watermarks for Large Language Models.** Preprint.
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein.
   * https://arxiv.org/abs/2306.04634
+  * https://github.com/jwkirchenbauer/lm-watermarking
 * **Undetectable Watermarks for Language Models.** Preprint.
   * Miranda Christ, Sam Gunn, Or Zamir.
   * https://arxiv.org/abs/2306.09194

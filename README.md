@@ -23,6 +23,7 @@ This repo includes papers about the watermarking for text and images.
 * **Watermarking LLMs with Weight Quantization.** EMNLP2023 findings.
   * Linyang Li, Botian Jiang, Pengyu Wang, Ke Ren, Hang Yan, Xipeng Qiu
   * https://arxiv.org/abs/2310.11237
+  * https://github.com/Twilight92z/Quantize-Watermark
 
 * **DiPmark: A Stealthy, Efficient and Resilient Watermark for Large Language Models.** Preprint.
   * Yihan Wu, Zhengmian Hu, Hongyang Zhang, Heng Huang

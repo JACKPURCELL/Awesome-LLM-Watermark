@@ -2,9 +2,15 @@
 
 This repo includes papers about the watermarking for text and images.
 
+## Survey
+* **A Survey on Detection of LLMs-Generated Content** Preprint
+  * Xianjun Yang
+  * https://arxiv.org/pdf/2310.15654.pdf
+
+
 ## Text watermark
 
-* **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.** Preprint
+* **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.** Preprint[Training-based, modified the embedding information, The idea is from "Undetectable Watermarks for Language Models"]
   * Ruisi Zhang, Shehzeen Samarah Hussain, Paarth Neekhara, Farinaz Koushanfar
   * https://arxiv.org/abs/2310.12362
 
@@ -20,16 +26,16 @@ This repo includes papers about the watermarking for text and images.
   * Fernandez Pierre, Couairon Guillaume, Furon Teddy, Douze Matthijs
   * https://arxiv.org/abs/2310.11446
 
-* **Watermarking LLMs with Weight Quantization.** EMNLP2023 findings.
+* **Watermarking LLMs with Weight Quantization.** EMNLP2023 findings.[Training-based, Weight Quantization]
   * Linyang Li, Botian Jiang, Pengyu Wang, Ke Ren, Hang Yan, Xipeng Qiu
   * https://arxiv.org/abs/2310.11237
   * https://github.com/Twilight92z/Quantize-Watermark
 
-* **DiPmark: A Stealthy, Efficient and Resilient Watermark for Large Language Models.** Preprint.
+* **DiPmark: A Stealthy, Efficient and Resilient Watermark for Large Language Models.** Preprint.[free-distribution,a update for baseline A Watermark for Large Language Models]
   * Yihan Wu, Zhengmian Hu, Hongyang Zhang, Heng Huang
   * https://arxiv.org/abs/2310.07710
 
-* **A Semantic Invariant Robust Watermark for Large Language Models.** Preprint.
+* **A Semantic Invariant Robust Watermark for Large Language Models.** Preprint.[submodel Training-based, Use another model to generate the watermark]
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
   * https://arxiv.org/abs/2310.06356
   
@@ -37,10 +43,10 @@ This repo includes papers about the watermarking for text and images.
   * Abe Bohan Hou, Jingyu Zhang, Tianxing He, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov
   * https://arxiv.org/abs/2310.03991
 
-* **Advancing Beyond Identification: Multi-bit Watermark for Language Models.** Preprint.
+* **Advancing Beyond Identification: Multi-bit Watermark for Language Models.** Preprint.[multi-bit]
   * KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak.
   * https://arxiv.org/abs/2308.00221
-* **Three Bricks to Consolidate Watermarks for Large Language Models.** Preprint.
+* **Three Bricks to Consolidate Watermarks for Large Language Models.** Preprint.[multi-bit]
   * Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon.
   * https://arxiv.org/abs/2308.00113
   * https://github.com/facebookresearch/three_bricks
@@ -48,28 +54,31 @@ This repo includes papers about the watermarking for text and images.
   * Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun.
   * https://arxiv.org/abs/2307.15992
   * https://github.com/lancopku/codable-watermarking-for-llm
-* **A Private Watermark for Large Language Models.** Preprint.
+* **A Private Watermark for Large Language Models.** Preprint.[free/  submodel Training-based, Use another model to generate the watermark]
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu. 
   * https://arxiv.org/abs/2307.16230
   * https://github.com/THU-BPM/private_watermark
-* **Robust Distortion-free Watermarks for Language Models.** Preprint.
+* **Robust Distortion-free Watermarks for Language Models.** Preprint.[free-Sampling]
   * Rohith Kuditipudi John Thickstun Tatsunori Hashimoto Percy Liang.
   * https://arxiv.org/abs/2307.15593
   * https://github.com/jthickstun/watermark
-* **Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy.** Preprint.
+* **Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy.** Preprint.[Training-free, distribution]
   * Yu Fu, Deyi Xiong, Yue Dong.
   * https://arxiv.org/abs/2307.13808
-* **Provable Robust Watermarking for AI-Generated Text.** Preprint.
+* **Provable Robust Watermarking for AI-Generated Text.** Preprint.[Modification of the Distribution]
   * Xuandong Zhao, Prabhanjan Ananth, Lei Li, Yu-Xiang Wang.
   * https://arxiv.org/abs/2306.17439
   * https://github.com/XuandongZhao/Unigram-Watermark
-* **On the Reliability of Watermarks for Large Language Models.** Preprint.
+* **On the Reliability of Watermarks for Large Language Models.** Preprint.[Modification of the Distribution]
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein.
   * https://arxiv.org/abs/2306.04634
   * https://github.com/jwkirchenbauer/lm-watermarking
-* **Undetectable Watermarks for Language Models.** Preprint.
+* **Undetectable Watermarks for Language Models.** Preprint.[Modification of the Sampling]
   * Miranda Christ, Sam Gunn, Or Zamir.
   * https://arxiv.org/abs/2306.09194
+* **Watermarking GPT Outputs ** Preprint.[Modification of the Sampling]
+  * Scott Aaronson and Hendrik Kirchner .
+  * https://www.scottaaronson.com/talks/watermark.ppt
 * **Watermarking Text Data on Large Language Models for Dataset Copyright Protection.** Preprint.
   * Yixin Liu, Hongsheng Hu, Xuyun Zhang, Lichao Sun.
   * https://arxiv.org/abs/2305.13257
@@ -79,7 +88,7 @@ This repo includes papers about the watermarking for text and images.
 * **Who Wrote this Code? Watermarking for Code Generation.** Preprint.
   * Taehyun Lee, Seokhee Hong, Jaewoo Ahn, Ilgee Hong, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim.
   * https://arxiv.org/abs/2305.15060
-* **Robust Multi-bit Natural Language Watermarking through Invariant Features.** ACL 2023.
+* **Robust Multi-bit Natural Language Watermarking through Invariant Features.** ACL 2023.[multi-bit]
   * KiYoon Yoo, Wonhyuk Ahn, Jiho Jang, Nojun Kwak.
   * https://arxiv.org/abs/2305.01904
   * https://github.com/bangawayoo/nlp-watermarking
@@ -91,11 +100,11 @@ This repo includes papers about the watermarking for text and images.
   * Xi Yang, Kejiang Chen, Weiming Zhang, Chang Liu, Yuang Qi, Jie Zhang, Han Fang, Nenghai Yu.
   * https://arxiv.org/abs/2305.08883
   * https://github.com/Kiode/Text_Watermark_Language_Models
-* **Protecting Language Generation Models via Invisible Watermarking.** ICML 2023.
+* **Protecting Language Generation Models via Invisible Watermarking.** ICML 2023.[free-distrubution]
   * Xuandong Zhao, Yu-Xiang Wang, Lei Li.
   * https://arxiv.org/abs/2302.03162
   * https://github.com/XuandongZhao/Ginsew
-* **A Watermark for Large Language Models.** ICML 2023. Outstanding Paper Award
+* **A Watermark for Large Language Models.** ICML 2023. Outstanding Paper Award[Modification of the Distribution baseline]
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein.
   * https://arxiv.org/abs/2301.10226
   * https://github.com/jwkirchenbauer/lm-watermarking

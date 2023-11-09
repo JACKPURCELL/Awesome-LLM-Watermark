@@ -2,7 +2,8 @@
 
 This repo includes papers about the watermarking for text and images.
 
-![Image](https://gitmind.com/app/docs/m4dkhkgz)
+https://gitmind.com/app/docs/m4dkhkgz
+
 ## Survey
 * **A Survey on Detection of LLMs-Generated Content** Preprint
   * Xianjun Yang

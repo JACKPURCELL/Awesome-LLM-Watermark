@@ -9,12 +9,21 @@ https://gitmind.com/app/docs/m4dkhkgz
   * Xianjun Yang
   * https://arxiv.org/pdf/2310.15654.pdf
 
+## Attack
+* **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models** Preprint
+  * Hanlin Zhang
+  * https://arxiv.org/pdf/2311.04378.pdf
 
 ## Text watermark
 
 * **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.** Preprint[Training-based, modified the embedding information, The idea is from "Undetectable Watermarks for Language Models"]
   * Ruisi Zhang, Shehzeen Samarah Hussain, Paarth Neekhara, Farinaz Koushanfar
   * https://arxiv.org/abs/2310.12362
+
+* **PLMmark: A Secure and Robust Black-Box Watermarking Framework for Pre-trained Language Models** Preprint.
+  * Peixuan Li
+  * https://ojs.aaai.org/index.php/AAAI/article/view/26750
+
 
 * **Embarrassingly Simple Text Watermarks.** Preprint.
   * Ryoma Sato, Yuki Takezawa, Han Bao, Kenta Niwa, Makoto Yamada

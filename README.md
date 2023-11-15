@@ -14,6 +14,9 @@ https://gitmind.com/app/docs/m4dkhkgz
   * https://arxiv.org/abs/2311.07138
   * Benchmark dataset
  
+* **Towards Possibilities & Impossibilities of AI-generated Text Detection: A Survey** Prepring.
+  * Anonymous authors
+  * https://openreview.net/pdf?id=AXtFeYjboj
     
 ## Attack
 * **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models** Preprint

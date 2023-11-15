@@ -9,12 +9,26 @@ https://gitmind.com/app/docs/m4dkhkgz
   * Xianjun Yang
   * https://arxiv.org/pdf/2310.15654.pdf
 
+* **WaterBench: Towards Holistic Evaluation of Watermarks for Large Language Models.** Prepring.
+  * Shangqing Tu, Yuliang Sun, Yushi Bai, Jifan Yu, Lei Hou, Juanzi Li
+  * https://arxiv.org/abs/2311.07138
+  * Benchmark dataset
+ 
+    
 ## Attack
 * **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models** Preprint
   * Hanlin Zhang
   * https://arxiv.org/pdf/2311.04378.pdf
 
 ## Text watermark
+
+
+
+* **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.** Preprint.
+  
+  * Hanlin Zhang, Benjamin L. Edelman, Danilo Francati, Daniele Venturi, Giuseppe Ateniese, Boaz Barak
+
+  * https://arxiv.org/abs/2311.04378
 
 * **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.** Preprint[Training-based, modified the embedding information, The idea is from "Undetectable Watermarks for Language Models"]
   * Ruisi Zhang, Shehzeen Samarah Hussain, Paarth Neekhara, Farinaz Koushanfar

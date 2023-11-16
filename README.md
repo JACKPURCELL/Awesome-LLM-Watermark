@@ -23,6 +23,21 @@ https://gitmind.com/app/docs/m4dkhkgz
   * Hanlin Zhang
   * https://arxiv.org/pdf/2311.04378.pdf
 
+* **Can ai-generated text be reliably detected?**
+  * https://github.com/vinusankars/Reliability-of-AI-text-detectors
+  * 
+* **Paraphrasing evades detectors of ai-generated text, but retrieval is an effective defense**
+  * https://github.com/martiansideofthemoon/ai-detection-paraphrases
+
+* **On the learnability of watermarks for language models**
+
+
+* **On the reliability of watermarks for large language models**
+  * https://github.com/jwkirchenbauer/lm-watermarking
+    
+* **Textbugger: Generating adversarial text against real-world applications**
+  * https://github.com/thunlp/OpenAttack
+
 ## Text watermark
 
 

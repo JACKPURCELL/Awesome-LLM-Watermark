@@ -39,8 +39,9 @@ https://gitmind.com/app/docs/m4dkhkgz
   * https://github.com/thunlp/OpenAttack
 
 ## Text watermark
-
-
+* **Publicly Detectable Watermarking for Language Models
+ * https://eprint.iacr.org/2023/1661.pdf
+ * * Compare with Undetectable Watermarks for Language Models
 
 * **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.** Preprint.
   

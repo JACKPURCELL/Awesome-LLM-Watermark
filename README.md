@@ -19,22 +19,27 @@ https://gitmind.com/app/docs/m4dkhkgz
   * https://openreview.net/pdf?id=AXtFeYjboj
     
 ## Attack
+### Paraphrasing attack(Digger)
+* **Can ai-generated text be reliably detected?**
+  * https://github.com/vinusankars/Reliability-of-AI-text-detectors
+
+* **Paraphrasing evades detectors of ai-generated text, but retrieval is an effective defense**
+  * https://github.com/martiansideofthemoon/ai-detection-paraphrases
+ 
+### Perturbation attack
 * **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models** Preprint
   * Hanlin Zhang
   * https://arxiv.org/pdf/2311.04378.pdf
 
-* **Can ai-generated text be reliably detected?**
-  * https://github.com/vinusankars/Reliability-of-AI-text-detectors
-  * 
-* **Paraphrasing evades detectors of ai-generated text, but retrieval is an effective defense**
-  * https://github.com/martiansideofthemoon/ai-detection-paraphrases
 
+### Extraction attack
 * **On the learnability of watermarks for language models**
 
-
+### Copy-paste attack
 * **On the reliability of watermarks for large language models**
   * https://github.com/jwkirchenbauer/lm-watermarking
-    
+
+### Text-bugger attack
 * **Textbugger: Generating adversarial text against real-world applications**
   * https://github.com/thunlp/OpenAttack
 

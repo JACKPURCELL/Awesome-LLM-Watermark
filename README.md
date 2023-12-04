@@ -19,6 +19,12 @@ https://gitmind.com/app/docs/m4dkhkgz
   * https://openreview.net/pdf?id=AXtFeYjboj
     
 ## Attack
+* **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature[DetectGPT]
+  * https://arxiv.org/pdf/2301.11305v1.pdf
+
+* **Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense[retrieval]
+  * https://arxiv.org/pdf/2303.13408.pdf
+
 ### Paraphrasing attack(Digger)
 * **Can ai-generated text be reliably detected?**
   * https://github.com/vinusankars/Reliability-of-AI-text-detectors

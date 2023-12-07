@@ -50,7 +50,38 @@ https://gitmind.com/app/docs/m4dkhkgz
   * https://github.com/thunlp/OpenAttack
 
 ## Text watermark
-* **Publicly Detectable Watermarking for Language Models
+* **New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking.** Preprint.
+  
+  * Karanpartap Singh, James Zou
+
+  * https://arxiv.org/abs/2312.02382
+  
+* **Mark My Words: Analyzing and Evaluating Language Model Watermarks.** Preprint.
+
+  * Julien Piet, Chawin Sitawarin, Vivian Fang, Norman Mu, David Wagner
+
+  * https://arxiv.org/abs/2312.00273
+
+* **I Know You Did Not Write That! A Sampling Based Watermarking Method for Identifying Machine Generated Text.** Preprint.
+
+  * Kaan Efe Keleş, Ömer Kaan Gürbüz, Mucahid Kutlu
+
+  * https://arxiv.org/abs/2311.18054
+
+* **Improving the Generation Quality of Watermarked Large Language Models via Word Importance Scoring.** Preprint
+
+  * Yuhang Li, Yihan Wang, Zhouxing Shi, Cho-Jui Hsieh
+  * https://arxiv.org/abs/2311.09668
+
+* **Performance Trade-offs of Watermarking Large Language Models.** Preprint.
+  * Anirudh Ajith, Sameer Singh, Danish Pruthi
+  * https://arxiv.org/abs/2311.09816
+
+* **X-Mark: Towards Lossless Watermarking Through Lexical Redundancy.** Preprint.
+  * Liang Chen, Yatao Bian, Yang Deng, Shuaiyi Li, Bingzhe Wu, Peilin Zhao, Kam-fai Wong
+  * https://arxiv.org/abs/2311.09832
+  * 
+* **Publicly Detectable Watermarking for Language Models**
  * https://eprint.iacr.org/2023/1661.pdf
  * * Compare with Undetectable Watermarks for Language Models
 

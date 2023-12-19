@@ -4,7 +4,7 @@ This repo includes papers about the watermarking for text and images.
 
 https://gitmind.com/app/docs/m4dkhkgz
 
-## Survey
+# Survey
 * **A Survey on Detection of LLMs-Generated Content** Preprint
   * Xianjun Yang
   * https://arxiv.org/pdf/2310.15654.pdf
@@ -18,7 +18,7 @@ https://gitmind.com/app/docs/m4dkhkgz
   * Anonymous authors
   * https://openreview.net/pdf?id=AXtFeYjboj
     
-## Attack
+# Attack
 * **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature[DetectGPT]**
   * https://arxiv.org/pdf/2301.11305v1.pdf
 
@@ -49,7 +49,25 @@ https://gitmind.com/app/docs/m4dkhkgz
 * **Textbugger: Generating adversarial text against real-world applications**
   * https://github.com/thunlp/OpenAttack
 
-## Text watermark
+# Text watermark
+* **Towards Optimal Statistical Watermarking.** Preprint.
+  
+  * Baihe Huang, Banghua Zhu, Hanlin Zhu, Jason D. Lee, Jiantao Jiao, Michael I. Jordan
+
+  * https://arxiv.org/abs/2312.07930
+  
+* **A Survey of Text Watermarking in the Era of Large Language Models.** Preprint. Survey paper.
+
+  * Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
+
+  * https://arxiv.org/abs/2312.07913
+
+* **On the Learnability of Watermarks for Language Models.** Preprint.
+
+  * Chenchen Gu, Xiang Lisa Li, Percy Liang, Tatsunori Hashimoto
+
+  * https://arxiv.org/abs/2312.04469
+  * 
 * **New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking.** Preprint.
   
   * Karanpartap Singh, James Zou

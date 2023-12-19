@@ -17,6 +17,10 @@ https://gitmind.com/app/docs/m4dkhkgz
 * **Towards Possibilities & Impossibilities of AI-generated Text Detection: A Survey** Prepring.
   * Anonymous authors
   * https://openreview.net/pdf?id=AXtFeYjboj
+ 
+* **A Survey of Text Watermarking in the Era of Large Language Models.** Preprint. Survey paper.
+  * Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
+  * https://arxiv.org/abs/2312.07913  
     
 # Attack
 * **DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature[DetectGPT]**
@@ -53,21 +57,14 @@ https://gitmind.com/app/docs/m4dkhkgz
 * **Towards Optimal Statistical Watermarking.** Preprint.
   
   * Baihe Huang, Banghua Zhu, Hanlin Zhu, Jason D. Lee, Jiantao Jiao, Michael I. Jordan
-
   * https://arxiv.org/abs/2312.07930
-  
-* **A Survey of Text Watermarking in the Era of Large Language Models.** Preprint. Survey paper.
 
-  * Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
-
-  * https://arxiv.org/abs/2312.07913
 
 * **On the Learnability of Watermarks for Language Models.** Preprint.
 
   * Chenchen Gu, Xiang Lisa Li, Percy Liang, Tatsunori Hashimoto
 
   * https://arxiv.org/abs/2312.04469
-  * 
 * **New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking.** Preprint.
   
   * Karanpartap Singh, James Zou
@@ -98,7 +95,7 @@ https://gitmind.com/app/docs/m4dkhkgz
 * **X-Mark: Towards Lossless Watermarking Through Lexical Redundancy.** Preprint.
   * Liang Chen, Yatao Bian, Yang Deng, Shuaiyi Li, Bingzhe Wu, Peilin Zhao, Kam-fai Wong
   * https://arxiv.org/abs/2311.09832
-  * 
+
 * **Publicly Detectable Watermarking for Language Models**
  * https://eprint.iacr.org/2023/1661.pdf
  * * Compare with Undetectable Watermarks for Language Models
